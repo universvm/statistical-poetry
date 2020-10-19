@@ -6,7 +6,7 @@ Where:
 m = meaning 
 e = experiences 
 
-- P(e): (37.49223, 15.07041) 
+- P(e): (37.518258, 15.107964)
 
 - P(e | m): https://www.youtube.com/watch?v=-z4NS2zdrZc
 
