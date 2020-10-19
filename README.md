@@ -1,2 +1,3 @@
-# statistical-poetry
-An attempt to make sense of the world using markdown
+# Statistical Poetry
+
+An attempt to make sense of the world using markdown and some statistics. 
