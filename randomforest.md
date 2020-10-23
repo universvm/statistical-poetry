@@ -1,4 +1,4 @@
-# Random Forest
+# Random Forest
 
 Gain(D, r) = E(D) - E(D|r) 
 
@@ -13,7 +13,7 @@ r = reality
 
 - E(D|r): Meditations - Marcus Aurelius 
 
-## Forest:
+## Forest:
 
 - II.1,14,15,16
 - III.1,3,5,13
