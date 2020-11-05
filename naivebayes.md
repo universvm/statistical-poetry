@@ -15,7 +15,7 @@ e = experiences
 
 ## Explanation:
 
-The famous and simple equation for Naive Bayes is applied to the context of meaning and experiences. The meaning of life is phrase as P(m | e) "the probability of meaning given the experiences of life". 
+The famous and simple equation for Naive Bayes is applied to the context of meaning and experiences. The meaning of life is phrased as P(m | e) "the probability of meaning given the experiences of life". 
 
 This is supported by the P(e | m) "the probability of living the experience given the meaning" or ideals we currently give to our life. I chose Steve Job's "Here's to the crazy ones..." ad speech. It speaks to me as a strong message of meaning that pushes people to do their best, perhaps a little bit "naive" as well. 
 

@@ -29,10 +29,12 @@ r = reality
 
 ## Explanation:
 
-We start with an equation of information gain in the system. The point is to maximise the Information Gain after every split of the decision tree and minimize the entropy after the split. 
+We start with the equation for information gain in the system. The point is to maximise the Information Gain after every split of the decision tree and minimize the entropy after the split. 
 
-Here, the Gain(D, r) is in terms of dreams and reality. The term E(D) is the entropy of the dreams, ie. how realistic they are. They are represented my Dalì's magical Persistence of Memory, a classic painting from the surrealist artistic movement. 
+Here, the Gain(D, r) is in terms of dreams and reality. Again, a personal detail.
 
-The E(D|r), entropy of the dreams given the current reality, is represented my Marcus Aurelius' Meditations. I chose this book as it has inspired me to have a more realistic view on reality and embrace elements of stoic philosophy in my life. The book itself is a series of thoughts or principles according to which the Roman emperor lived his life. To me, each of them was a reminder about the human nature and a reflection on apathy, the insensitiveness towards pathological emotions. 
+The term E(D) is the entropy of the dreams, ie. how realistic they are. They are represented by Dalì's magical Persistence of Memory, a classic painting from the surrealist art movement. 
 
-Since the algorithm is actually a random forest, I chose my favorite verses from the book of meditations divided by chapter. The idea being that the more decision trees are built, the higher the accuracy of the model. 
+The E(D|r), the entropy of the dreams given the current reality, is represented by Marcus Aurelius' Meditations. I chose this book as it has inspired me to have a more realistic view of reality and embrace elements of stoic philosophy in my life. The book itself is a series of thoughts or principles according to which the Roman emperor lived his life. To me, each of them was a reminder about human nature and a reflection on apathy, the insensitiveness towards pathological emotions. 
+
+Since the algorithm is a "Random Forest", I chose my favorite verses from the book of meditations divided by chapter representing trees. The idea being that the more decision trees are built, the higher the accuracy of the model. 
